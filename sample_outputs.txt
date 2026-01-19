@@ -1,0 +1,44 @@
+Sample Model Outputs
+
+Input Text:
+"Oh great, another meeting. Fantastic."
+
+Sarcasm Output:
+Sarcastic = 0.73
+Not Sarcastic = 0.27
+
+Final Prediction:
+This text is SARCASTIC
+
+
+----------------------------------------
+
+Input Text:
+"I am very happy today."
+
+Sarcasm Output:
+Sarcastic = 0.04
+Not Sarcastic = 0.96
+
+Emotion Output:
+Joy = 0.89
+Neutral = 0.06
+Sadness = 0.05
+
+Final Prediction:
+Emotion detected: JOY
+
+----------------------------------------
+
+Input Text:
+"This is a pen."
+
+Sarcasm Output:
+Sarcastic = 0.20
+Not Sarcastic = 0.80
+
+Emotion Output:
+Neutral = 0.91
+
+Final Prediction:
+Emotion detected: NEUTRAL
